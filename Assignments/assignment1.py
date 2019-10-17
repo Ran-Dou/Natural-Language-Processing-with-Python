@@ -15,7 +15,7 @@ late submission may trigger a penalty of up to 20%.
 
 
 PROBLEM 1.
-
+ 
 Write a function called is_determiner() that takes a word as input and decides
 wheter it is a determiner.
 
